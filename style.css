@@ -2,9 +2,10 @@
 
 :root {
     --bg-color: #001F3F;
-    --primary-color: #db3b3b;
-    --secondary-color: #ffffff;
+    --primary-color: #f3f2f2;
+    --secondary-color: #e45d5d;
     --font: "Rubik Wet Paint", serif;
+    --text: #7A1CAC
 }
 
 body{
