@@ -7,6 +7,11 @@
     --font:  "Rubik Wet Paint", serif;
 }
 
+body{
+    background-color: var(--bg-color);
+    
+}
+
 
 
 
