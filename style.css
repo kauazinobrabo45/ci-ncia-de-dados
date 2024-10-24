@@ -3,7 +3,7 @@
 :root {
     --bg-color: #001F3F;
     --primary-color: #db3b3b;
-    --secondary-color: #F05A7E;
+    --secondary-color: #ffffff;
     --font: "Rubik Wet Paint", serif;
 }
 
@@ -17,7 +17,7 @@ body{
 }
 
 header{
-background-color: var(--primary-color);
+background-color: var(--secondary-color);
 text-align: center;
 }
 
