@@ -2,9 +2,9 @@
 
 :root {
     --bg-color: #001F3F;
-    --primary-color: #DDDDDD;
+    --primary-color: #db3b3b;
     --secondary-color: #F05A7E;
-    --font: "Rubik Wet Paint", serif #4E31AA;
+    --font: "Rubik Wet Paint", serif;
 }
 
 body{
