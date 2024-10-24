@@ -4,7 +4,7 @@
     --bg-color: #001F3F;
     --primary-color: #DDDDDD;
     --secondary-color: #F05A7E;
-    --font: #4E31AA "Rubik Wet Paint", serif;
+    --font: "Rubik Wet Paint", serif #4E31AA;
 }
 
 body{
